@@ -1,0 +1,19 @@
+* {
+    font-family: Tahoma, sans-serif;
+}
+
+h1, h2, h3{
+    font-family: Georgia, serif;
+    font-weight: bold;
+    color: navy;
+}
+
+strong {
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+    color:orange;
+}
+
+body{
+    background-color: lightblue;
+};
